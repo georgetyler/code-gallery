@@ -1,4 +1,4 @@
-### Welcome to my code portfolio!
+# Welcome to my code portfolio!
 
 Current examples are:
 
